@@ -1,20 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class Program
+namespace ConsoleApp1
 {
-    static void Main(string[] args)
+    class Program
     {
-        PrintMessage("Hello, World!", 5);
-    }
-
-    static void PrintMessage(string message, int count)
-    {
-        for (int i = 0; i < count; i++)
+        static void Main(string[] args)
         {
-            Console.WriteLine(message);
+            Console.WriteLine("Hello World!");
         }
     }
 }
-    
-    
-    
