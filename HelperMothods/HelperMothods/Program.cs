@@ -48,7 +48,17 @@ namespace HelperMethods
                 }
                 
                 Console.WriteLine("Results: " + result);
-                
+
+                private static void reverseString()
+                {
+                    string message = "Hello World!";
+                    char[] messageArray = message.ToCharArray();  
+                    Array.Reverse(messageArray);
+                    foreach (char item in messageArray)
+                    {
+                        result += item;
+                    }
+                }
             }
         }
 }

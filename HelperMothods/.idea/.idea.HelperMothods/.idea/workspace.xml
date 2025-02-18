@@ -8,8 +8,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec38ec04-9bf4-40f5-8495-2e65ac34ba99" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HelperMothods/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelperMothods.sln" beforeDir="false" afterPath="$PROJECT_DIR$/HelperMothods.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelperMothods/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HelperMothods/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +90,7 @@
       <workItem from="1739857711922" duration="46000" />
       <workItem from="1739881726136" duration="2917000" />
       <workItem from="1739897681965" duration="1118000" />
+      <workItem from="1739899417561" duration="301000" />
     </task>
     <servers />
   </component>
